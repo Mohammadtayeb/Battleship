@@ -1,0 +1,1 @@
+This is a simple game that is build of JavaScript, HTML and CSS. This game has one board on which the ships are randomly located. The player must sank the battleships according to it's row and column. Once all the battleships are sunked, the game ends. I find it very enjoyable. Have it a try!
